@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\bookapi\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\book-management-system-project\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\bookapi\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\book-management-system-project\\bookapi\\bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\book-management-system-project\\bookapi\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|c:\\users\\mohamed mousa\\source\\repos\\book-management-system-project\\bookapi\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F5D622-24FF-4B40-A66A-9A2C08247E23}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T01:49:56.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BookApi\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\BookApi\\Controllers\\BooksController.cs*",
-              "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T22:01:23.023Z",
               "EditorCaption": ""
@@ -41,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\BookApi\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookApi\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\BookApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Models\\Book.cs",
               "RelativeToolTip": "BookApi\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\BookApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Program.cs",
               "RelativeDocumentMoniker": "BookApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\BookApi\\BookApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed Mousa\\source\\repos\\book-management-system-project\\BookApi\\BookApi\\Program.cs",
               "RelativeToolTip": "BookApi\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBIAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T21:37:40.149Z",
               "EditorCaption": ""
